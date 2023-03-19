@@ -1,0 +1,4 @@
+tmp/
+git rm --cached index.html_old/
+private/
+
